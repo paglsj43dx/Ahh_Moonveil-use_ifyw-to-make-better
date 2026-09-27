@@ -6,7 +6,8 @@
        |_|  |_|\___/ \___/|_| |_|\_/ \___|_|_|
               d e v i r t   ·   v0.1
 ```
-# IF YOU USE THIS ON POLSEC YOU GET [ Polsec ] No KEY WAS PROVIDED ERROR SO IFYW USE THIS SOURCE TO MAKE IT BETTER GO AHEAD AND TRY TO BYPASS THAT. 
+# IF YOU USE THIS ON POLSEC YOU GET [ Polsec ] No KEY WAS PROVIDED ERROR SO IFYW USE THIS SOURCE TO MAKE IT BETTER GO AHEAD AND TRY TO BYPASS THAT. u jsut need to put the key
+above
 # ✧ﾟ･: moonveil-devirt :･ﾟ✧
 
 *a lil trace-based devirtualizer for scripts obfuscated with **MoonVeil** (getpolsec.com)*
